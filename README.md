@@ -14,3 +14,4 @@ This is a template of Dawn Theme, which provided by Shopify.
 
 ## Preview Link
 https://t6rbff7p0xzyyf03-66517074080.shopifypreview.com
+Password: tancaodev
